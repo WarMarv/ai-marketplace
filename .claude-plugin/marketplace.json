@@ -1,0 +1,21 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "warmarv-marketplace",
+  "description": "Production-ready multi-agent plugins for Claude Code — specialized roles, quality-gate hooks, and autonomous subagents",
+  "owner": {
+    "name": "Marvin Warnke",
+    "email": "marvin.warnke11@gmail.com"
+  },
+  "plugins": [
+    {
+      "name": "multi-agent-swarm",
+      "description": "Orchestrator, Reviewer, Tester, Documenter roles with quality-gate hooks — production-ready multi-agent system",
+      "author": {
+        "name": "Marvin Warnke"
+      },
+      "category": "development",
+      "source": "./plugins/multi-agent-swarm",
+      "homepage": "https://github.com/marvinwarnke/ai-marketplace"
+    }
+  ]
+}
