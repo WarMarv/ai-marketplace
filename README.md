@@ -10,14 +10,16 @@ A public Claude Code plugin marketplace — production-ready multi-agent plugins
 
 ## Add This Marketplace
 
+**Claude Code:**
 ```bash
-claude plugin marketplace add github:marvinwarnke/ai-marketplace
+claude plugins marketplace add WarMarv/ai-marketplace
+claude plugins install multi-agent-swarm
 ```
 
-Then install individual plugins:
-
+**Codex:** (`plugin` singular — ignore zsh autocorrect to `plugins`)
 ```bash
-claude plugin install multi-agent-swarm
+codex plugin marketplace add WarMarv/ai-marketplace
+codex plugin add multi-agent-swarm@warmarv-marketplace
 ```
 
 ## Architecture
