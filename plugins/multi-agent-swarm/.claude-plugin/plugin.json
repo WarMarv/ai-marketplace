@@ -1,0 +1,12 @@
+{
+  "name": "multi-agent-swarm",
+  "description": "Multi-agent system with specialized roles (Orchestrator, Reviewer, Tester, Documenter) and quality-gate hooks",
+  "author": {
+    "name": "Marvin Warnke",
+    "email": "marvin.warnke11@gmail.com"
+  },
+  "homepage": "https://github.com/marvinwarnke/ai-marketplace",
+  "repository": "https://github.com/marvinwarnke/ai-marketplace",
+  "license": "MIT",
+  "keywords": ["multi-agent", "swarm", "orchestrator", "reviewer", "hooks", "quality-gates"]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "multi-agent-swarm",
+  "version": "1.0.0",
+  "description": "Multi-agent system with specialized roles and quality-gate hooks for Orchestrator, Reviewer, Tester, and Documenter workflows.",
+  "author": {
+    "name": "Marvin Warnke",
+    "email": "marvin.warnke11@gmail.com"
+  },
+  "homepage": "https://github.com/marvinwarnke/ai-marketplace",
+  "repository": "https://github.com/marvinwarnke/ai-marketplace",
+  "license": "MIT",
+  "keywords": ["multi-agent", "swarm", "orchestrator", "reviewer", "hooks", "quality-gates"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Multi-Agent Swarm",
+    "shortDescription": "Orchestrator, Reviewer, Tester, Documenter roles with quality-gate hooks",
+    "longDescription": "Equip any project with a production-ready multi-agent system. Installs specialized agent roles (Orchestrator coordinates parallel tasks; Reviewer enforces code quality; Tester drives TDD; Documenter keeps docs current) alongside 8 quality-gate hooks that block bad commits, enforce conventional commits, scan for secrets, and auto-format on save.",
+    "developerName": "Marvin Warnke",
+    "category": "Development",
+    "capabilities": ["Interactive", "Read", "Write"],
+    "defaultPrompt": [
+      "Let's coordinate a complex feature with multiple agents.",
+      "Review the current diff and report any blocking issues."
+    ],
+    "websiteURL": "https://github.com/marvinwarnke/ai-marketplace"
+  }
+}
