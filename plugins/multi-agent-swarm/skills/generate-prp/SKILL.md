@@ -1,6 +1,6 @@
 ---
 name: generate-prp
-description: Generate a complete PRP (Product Requirements Prompt) from a feature file — researches codebase and web, then produces a self-contained implementation spec. Input: path to feature file.
+description: "Generate a complete PRP (Product Requirements Prompt) from a feature file — researches codebase and web, then produces a self-contained implementation spec. Input: path to feature file."
 version: 1.0.0
 ---
 

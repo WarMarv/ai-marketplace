@@ -1,6 +1,6 @@
 ---
 name: close-issue
-description: Close a GitHub Issue via PR with full QA — runs Tester, Reviewer, creates PR, and auto-merges. Input: issue number.
+description: "Close a GitHub Issue via PR with full QA — runs Tester, Reviewer, creates PR, and auto-merges. Input: issue number."
 version: 1.0.0
 ---
 
