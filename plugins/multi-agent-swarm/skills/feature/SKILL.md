@@ -1,6 +1,6 @@
 ---
 name: feature
-description: Implement a feature end-to-end — Plan → Implementation → Tests → ready to commit. Input: feature description or issue title.
+description: "Implement a feature end-to-end — Plan → Implementation → Tests → ready to commit. Input: feature description or issue title."
 version: 1.0.0
 ---
 

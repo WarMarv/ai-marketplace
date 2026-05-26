@@ -1,6 +1,6 @@
 ---
 name: execute-prp
-description: Execute a PRP (Product Requirements Prompt) file — loads context, plans with ULTRATHINK, implements, validates. Input: path to PRP file.
+description: "Execute a PRP (Product Requirements Prompt) file — loads context, plans with ULTRATHINK, implements, validates. Input: path to PRP file."
 version: 1.0.0
 ---
 

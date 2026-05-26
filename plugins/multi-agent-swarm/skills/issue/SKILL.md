@@ -1,6 +1,6 @@
 ---
 name: issue
-description: Create a GitHub Issue from a free-text description — derives title, body, and labels automatically. Input: issue description.
+description: "Create a GitHub Issue from a free-text description — derives title, body, and labels automatically. Input: issue description."
 version: 1.0.0
 ---
 

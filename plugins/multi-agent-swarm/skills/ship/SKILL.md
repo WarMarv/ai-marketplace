@@ -1,6 +1,6 @@
 ---
 name: ship
-description: Ship current changes — creates branch, commits, runs QA (Tester + Reviewer), creates PR, and auto-merges. Input: optional commit message. Flag --skip-tests to skip test checks.
+description: "Ship current changes — creates branch, commits, runs QA (Tester + Reviewer), creates PR, and auto-merges. Input: optional commit message. Flag --skip-tests to skip test checks."
 version: 1.0.0
 ---
 
